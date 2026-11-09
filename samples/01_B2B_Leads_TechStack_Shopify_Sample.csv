@@ -1,0 +1,7 @@
+domain,leadScore,emails,phones,techStack,emailProvider,hasDmarc,isShopify,sslDaysRemaining,actionableSalesPitch
+colourpop.com,100,"colourpop@colourpop.com;legal@colourpop.com","(949) 224-1810","Shopify;Klaviyo;Yotpo;Gorgias;GTM",Google Workspace,true,true,46,"Active Shopify Store (50+ products, avg $24.68)"
+kyliecosmetics.com,100,"customerservice@kyliecosmetics.com","+8335459543","Shopify;Klaviyo;Yotpo;Klarna;GTM",Custom Enterprise,true,true,45,"Active Shopify Store (50+ products, avg $63.63)"
+haravan.com,100,"hi@haravan.com","1900636099;0708789886","Haravan;GTM;Cloudflare;Bootstrap",Google Workspace,true,false,51,"Healthy digital footprint — Ready for B2B outreach"
+base.vn,75,"contact@base.vn;support@base.vn","","Cloudflare;Vite SPA",Google Workspace,true,false,52,"Zero-Browser SPA unpacked verified contacts"
+www.phongvu.vn,100,"cskh@phongvu.vn;baogia@phongvu.vn;hoptac@phongvu.vn","18006867","Next.js;React;GTM;Meta Pixel;Clarity",Google Workspace,true,false,49,"Enterprise ICT Retail Vietnam"
+topcv.vn,100,"hotro@topcv.vn","1900068889;0967778018","GA4;GTM;Meta Pixel;TikTok Pixel;LinkedIn Insight",Google Workspace,true,false,65,"HR Tech Market Leader Vietnam"

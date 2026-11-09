@@ -1,0 +1,3 @@
+domain,securityPostureScore,subdomainsDiscoveredCount,liveSubdomainsCount,sslDaysRemaining,tlsProtocol,hasSecurityTxt,bugBountyPolicyUrl,sampleSubdomains
+hackerone.com,100,42,14,134,TLSv1.3,true,https://hackerone.com/security,"api.hackerone.com;docs.hackerone.com;support.hackerone.com;resources.hackerone.com"
+haravan.com,80,56,20,51,TLSv1.3,false,,"accounts.haravan.com;apis.haravan.com;blog.haravan.com;developers.haravan.com;myharavan.com"
